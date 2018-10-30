@@ -1,3 +1,2 @@
 # Verkefni_7
-Verkefni 7 //
-Verkefnið keyrir ekki.
+Verkefni 7 keyrir ekki hjá mér
